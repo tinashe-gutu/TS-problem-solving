@@ -1,5 +1,46 @@
-# TypeScript Kata Template
+# Typecript Problem Solving
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
+> Below are problem sets from different sites.  
+> All problems are solved using TypeScript.  
+> All problems are teseted using Jest
+> <a> </a>
 
-> This is part of Academy's technical curriculum for **The Mark**. All parts of that curriculum, including this project, are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
+---
+
+## K A T A S
+<details>
+<summary>7 Kyu &emsp; increasing dificulty &darr; </summary>                                                
+
+### [7kyu katas folder](src/katas/7kyu)
+
+</details>
+
+<details>
+<summary>6 Kyu</summary>
+
+### [6kyu katas folder](src/katas/6kyu)
+
+</details>
+
+<details>
+<summary>5 Kyu </summary>
+
+### [5kyu katas folder](src/katas/5kyu)
+
+</details>
+
+<details>
+<summary>4 Kyu</summary>
+
+### [4kyu katas folder](src/katas/4kyu)
+
+</details>
+
+<details>
+<summary>3 Kyu</summary>
+
+### [3kyu katas folder](src/katas/3kyu)
+
+[1. you're-a-square](src/katas/7kyu/youre-a-square)
+
+</details>
