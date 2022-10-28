@@ -12,7 +12,7 @@
 <summary>7 Kyu &emsp; increasing dificulty &darr; </summary>                                                
 
 ### [7kyu katas folder](src/katas/7kyu)
-
+[1. Count Xs and Os](src/katas/7kyu/Exs-and-Ohs)
 </details>
 
 <details>
@@ -41,6 +41,5 @@
 
 ### [3kyu katas folder](src/katas/3kyu)
 
-[1. you're-a-square](src/katas/7kyu/youre-a-square)
 
 </details>
