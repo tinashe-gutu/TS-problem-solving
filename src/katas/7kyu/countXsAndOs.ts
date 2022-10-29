@@ -1,4 +1,3 @@
-
 /* Brief: check if number of 'x' and 'o' in a string are equal
 
 function:
@@ -32,17 +31,17 @@ import { count } from "console";
  * @returns boolean
  */
 
-function countXO(string: string): boolean{
-    let xCounter = 0;
-    let oCounter = 0;
-    for(const character of string){
-        if(character.toLowerCase() === 'x'){
-            xCounter++;
-        }else if(character.toLowerCase()=== 'o'){
-            oCounter++;
-        }
+function countXO(string: string): boolean {
+  let xCounter = 0;
+  let oCounter = 0;
+  for (const character of string) {
+    if (character.toLowerCase() === "x") {
+      xCounter++;
+    } else if (character.toLowerCase() === "o") {
+      oCounter++;
     }
-    return xCounter===oCounter ? true : false
+  }
+  return xCounter === oCounter ? true : false;
 }
 
 export default countXO;
