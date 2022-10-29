@@ -25,6 +25,8 @@ else:
     return false
 */
 
+import { count } from "console";
+
 /** return true if number of X's and O's are equal
  * @param string - string containing xs and os
  * @returns boolean
@@ -42,3 +44,5 @@ function countXO(string: string): boolean{
     }
     return xCounter===oCounter ? true : false
 }
+
+export default countXO;
