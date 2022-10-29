@@ -5,5 +5,4 @@ test('countXO check if number Xs and Os are equal', ()=>{
     expect('xxoo').toBe(true)
     expect('sdsfd').toBe(false)
     expect('OoXx').toBe(true)
-
 })
