@@ -34,6 +34,11 @@ function countXO(string: string): boolean{
     let xCounter = 0;
     let oCounter = 0;
     for(const character of string){
-        if(character)
+        if(character.toLowerCase() === 'x'){
+            xCounter++;
+        }else if(character.toLowerCase()=== 'o'){
+            oCounter++;
+        }
     }
+    return xCounter===oCounter ? true : false
 }
