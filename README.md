@@ -26,6 +26,7 @@
 <summary>5 Kyu </summary>
 
 ### [5kyu katas folder](src/katas/5kyu)
+[assembler](src/katas/5kyu/assembler)
 
 </details>
 
