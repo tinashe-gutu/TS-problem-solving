@@ -17,6 +17,7 @@
     "format:check": "prettier --check src",
     "test": "jest",
     "test:watch": "jest --watchAll",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "complie": "tsc"
   }
 }
