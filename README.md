@@ -8,11 +8,14 @@
 ---
 
 ## K A T A S
+
 <details>
-<summary>7 Kyu &emsp; increasing dificulty &darr; </summary>                                                
+<summary>7 Kyu &emsp; increasing dificulty &darr; ↓ </summary>
 
 ### [7kyu katas folder](src/katas/7kyu)
+
 [1. Count Xs and Os](src/katas/7kyu/Exs-and-Ohs)
+
 </details>
 
 <details>
@@ -26,6 +29,7 @@
 <summary>5 Kyu </summary>
 
 ### [5kyu katas folder](src/katas/5kyu)
+
 [assembler](src/katas/5kyu/assembler)
 
 </details>
@@ -41,6 +45,5 @@
 <summary>3 Kyu</summary>
 
 ### [3kyu katas folder](src/katas/3kyu)
-
 
 </details>

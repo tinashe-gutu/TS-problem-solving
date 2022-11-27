@@ -27,10 +27,10 @@
 
 export function assemble(instructions: string[]): object {
   let obj: Record<string, any> = {};
-  for (let i = 0; i < instructions.length; ) {
+  for (let i = 0; i < instructions.length; ){
     let instruction = instructions[i].split(" ");
     let content = instruction[1];
-    if (instruction[0] === "mov") {
+    if (instruction[0] === "mov"){
       if (isNaN(parseInt(instruction[2]))) {
         let value = instruction[2];
         obj[content] = obj[value];
